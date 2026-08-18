@@ -32,7 +32,7 @@ public static class CommonStepInputs
     
     public static readonly StepInput LobbyPassword = new("lobby-password", "Join Key")
     {
-        Placeholder = "(leave empty to randomize)",
+        Placeholder = "DO NOT USE",
     };
     
     internal static readonly StepInput ElfInput = new("elf-input", "Input .ELF", StepInputType.OpenFile)

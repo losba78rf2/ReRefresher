@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using Refresher.Core.Accessors;
 
 namespace Refresher.Core.Pipelines.Steps;
